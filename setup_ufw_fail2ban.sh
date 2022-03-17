@@ -15,7 +15,7 @@ ufw allow 16524/tcp
 ufw limit 16524/tcp
 ufw deny 22/tcp
 ufw allow 1317
-ufw enable
+ufw enable -y
 
 # install fail2ban
 
