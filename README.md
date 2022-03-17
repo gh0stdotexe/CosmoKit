@@ -26,8 +26,10 @@ A simple script to automate the process of installing **UFW** and configuring so
 
 The same script also includes the installation of **Fail2Ban**, a simple way to automatically ban IPs that are attempting to spam/bruteforce your server.
 
-### 2. install_prometheus.sh
+### 2. install_prometheus.sh (INCOMPLETE)
 
 Pretty self explanatory. This script will run through the necessary setup steps required to isntall prometheus, as well as node_exporter_full, which are great for exporting node data directly to Grafana servers. 
 
 Note: this script is configured for **port 9093** instead of the default port 9090.
+
+
