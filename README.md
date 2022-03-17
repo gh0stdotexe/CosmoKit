@@ -9,7 +9,7 @@ Hopefully, you find some of these tools useful, too. :)
 
 ## Scripts:
 
-### 1. setup_UFW_fail2ban.sh
+### 1. setup_ufw_fail2ban.sh
 
 A simple script to automate the process of installing **UFW** and configuring some basic rules/ports for **Tendermint-based chains**:
 - allow outgoing
